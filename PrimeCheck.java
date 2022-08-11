@@ -1,4 +1,4 @@
-/*
+
 //check prime or not normally
 import java.util.*;
 public class PrimeCheck {
@@ -24,7 +24,7 @@ public class PrimeCheck {
              }       
          }
 }
-*/
+
 
 //check prime or not using function
 import java.util.*;
